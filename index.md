@@ -1,3 +1,4 @@
+<link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
 ## How can journalists use digital tools to better report on online mis- and disinformation?
 In the week following former President Donald Trump’s suspension from major social media platforms, several national news outlets published stories reporting a 73% drop in misinformation on social media. <br/>
 ![Image](/images/image1.PNG) <br/>
@@ -32,7 +33,7 @@ Nature of Strategic Information Operations
 
 ### The Mis- and Disinformation Beat
 
-Despite the challenges associated with digital spaces, journalists are increasingly reporting on various forms of misleading information in online ecosystems. In the paper <em> On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online </em> the authors discuss the move of experienced internet, social media, and national security reporters to covering this new "beat" full time. In doing this work, journalists aim to inform readers about what is happening online, investigate and debunk false claims, and hold social media companies accountable for the problematic information that spreads on their platforms. Compared to researchers, journalists are often exploring these phenomena on truncated timelines and with fewer resources, yet they rely on some of the same kinds of data and analysis techniques.
+Despite the challenges associated with digital spaces, journalists are increasingly reporting on various forms of misleading information in online ecosystems. In the paper <em> On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online </em> the authors discuss the move of experienced internet, social media, and national security reporters to covering this new "beat" full time. In doing this work, journalists aim to inform readers about what is happening online, investigate and debunk false claims, and hold social media companies accountable for the problematic information that spreads on their platforms. Compared to researchers, journalists are often exploring these phenomena on truncated timelines and with fewer resources, yet they rely on some of the same kinds of data and analysis techniques. <span class="soundcite" data-url="/media/bach-cello-suite.mp3" data-start="0" data-end="164000" data-plays="1">listen</span>
 
 ### The Rise of Data Journalism
 
