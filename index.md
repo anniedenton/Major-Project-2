@@ -42,6 +42,15 @@ The study “Data Journalism and Misinformation” emphasizes that while data jo
 
 ### Works Cited
 
-Oscar Westlund, Alfred Hermida. (2020). Data Journalism and Misinformation. Retrieved from http://www.alfredhermida.me/wp-content/uploads/2020/07/Westlund-and-Hermida-2020-Data-Journalism-and-Misinformation-Accepted-version.pdf </br>
+Andrew Beers, Melinda McClure Haughey, Ahmer Arif, and Kate Starbird. 2020. Examining the digital toolsets of journalists reportingon disinformation. In Proceedings of Computation + Journalism 2020 (C+J ’20). ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/1122445.1122456
+
 Kate Starbird, Ahmer Arif & Tom Wilson. (2019). Disinformation as Collaborative Work: Surfacing the Participatory Nature of	Strategic Information Operations. PACMHCI. Vol: CSCW. Retrieved from: http://faculty.washington.edu/kstarbi/StarbirdArifWilson_ DisinformationasCollaborativeWork-CameraReady-Preprint.pdf
+
+Melinda McClure Haughey, Meena Devii Muralikumar, Cameron Wood, and Kate Starbird. 2020. On the
+Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online. Proc. ACM Hum.-Comput. Interact. 4, CSCW2, Article 133 (October 2020), 22 pages. https://doi.org/10.1145/3415204
+
+Oscar Westlund, Alfred Hermida. (2020). Data Journalism and Misinformation. Retrieved from http://www.alfredhermida.me/wp-content/uploads/2020/07/Westlund-and-Hermida-2020-Data-Journalism-and-Misinformation-Accepted-version.pdf
+
+
+
 
