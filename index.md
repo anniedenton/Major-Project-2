@@ -18,7 +18,11 @@ A graph from the authors shows the misinformative theorizing is typically spread
 
 
 ```markdown
-“Journalists and social scientists can find themselves particularly disadvantaged in these circumstances—unless there is verifiable proof of intent to deceive, these groups risk reputational, professional and legal repercussions when investigating or making claims about information operations. Meanwhile, political operatives can exploit these professionals’ cautiousness by using plausible deniability as a defense and spread misleading content without facing major threats to their own credibility.”
+“Journalists and social scientists can find themselves particularly disadvantaged in these circumstances— <br/>
+unless there is verifiable proof of intent to deceive, these groups risk reputational, professional and  <br/>
+legal repercussions when investigating or making claims about information operations. <br/>
+Meanwhile, political operatives can exploit these professionals’ cautiousness by using plausible deniability <br/>
+as a defense and spread misleading content without facing major threats to their own credibility.”<br/>
 ```
 
 ### The Mis- and Disinformation Beat
