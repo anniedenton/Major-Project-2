@@ -27,7 +27,7 @@ spread misleading content without facing major threats to their own credibility.
 
 ### The Mis- and Disinformation Beat
 
-Despite the challenges associated with digital spaces, journalists are increasingly reporting on problematic information in online environments. Experienced internet, social media, and national security reporters are starting to cover this new "beat" full time. In doing this work, journalists aim to inform readers about what is happening online, investigate and debunk false claims, and hold social media companies accountable for the problematic information that spreads on their platforms. Compared to researchers, journalists are often exploring these phenomena on truncated timelines and with fewer resources, yet they rely on some of the same kinds of data and analysis techniques.
+Despite the challenges associated with digital spaces, journalists are increasingly reporting on various forms of misleading information in online ecosystems. In the paper <em> On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online </em> the authors discuss the move of experienced internet, social media, and national security reporters to covering this new "beat" full time. In doing this work, journalists aim to inform readers about what is happening online, investigate and debunk false claims, and hold social media companies accountable for the problematic information that spreads on their platforms. Compared to researchers, journalists are often exploring these phenomena on truncated timelines and with fewer resources, yet they rely on some of the same kinds of data and analysis techniques.
 
 ### The Rise of Data Journalism
 
@@ -36,6 +36,6 @@ The study “Data Journalism and Misinformation” emphasizes that while data jo
 
 ### Works Cited
 
-Oscar Westlund, Alfred Hermida. (2020). Data Journalism and Misinformation. Retrieved from http://www.alfredhermida.me/wp-content/uploads/2020/07/Westlund-and-Hermida-2020-Data-Journalism-and-Misinformation-Accepted-version.pdf
+Oscar Westlund, Alfred Hermida. (2020). Data Journalism and Misinformation. Retrieved from http://www.alfredhermida.me/wp-content/uploads/2020/07/Westlund-and-Hermida-2020-Data-Journalism-and-Misinformation-Accepted-version.pdf </br>
 Kate Starbird, Ahmer Arif & Tom Wilson. (2019). Disinformation as Collaborative Work: Surfacing the Participatory Nature of	Strategic Information Operations. PACMHCI. Vol: CSCW. Retrieved from: http://faculty.washington.edu/kstarbi/StarbirdArifWilson_ DisinformationasCollaborativeWork-CameraReady-Preprint.pdf
 
