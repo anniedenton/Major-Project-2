@@ -18,11 +18,14 @@ As part of a case study on the disinformation campaign targeting the White Helme
 ![Image](https://github.com/anniedenton/Major-Project-2/blob/gh-pages/images/image3.PNG)
 
 ```markdown
-“Journalists and social scientists can find themselves particularly disadvantaged in these circumstances— 
-unless there is verifiable proof of intent to deceive, these groups risk reputational, professional and  
-legal repercussions when investigating or making claims about information operations.Meanwhile, political
-operatives can exploit these professionals’ cautiousness by using plausible deniability as a defense and 
-spread misleading content without facing major threats to their own credibility.”
+“Journalists and social scientists can find themselves particularly 
+disadvantaged in these circumstances — unless there is verifiable 
+proof of intent to deceive, these groups risk reputational, 
+professional and legal repercussions when investigating or making 
+claims about information operations.Meanwhile, political operatives 
+can exploit these professionals’ cautiousness by using plausible 
+deniability as a defense and spread misleading content without 
+facing major threats to their own credibility.”
 ```
 
 ### The Mis- and Disinformation Beat
