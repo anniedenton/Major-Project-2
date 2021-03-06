@@ -8,7 +8,7 @@ This soundbite, unfortunately, lacks some key context and nuance present in the 
 Twitter suspended over 70,000 accounts in the week after President Trump’s ban, and number of them were not “key allies” of Trump. Many were active or otherwise influential QAnon accounts or even affiliated with unrelated groups, so one can’t make a causal claim from just the Trump suspension. 
 Furthermore, the precise measurement of misinformation is problematic.  Though Suspending Pres. Trump’s account likely took a dent out of mis- and disinformation on Twitter, the 73% number is incredibly misleading. We still haven’t quantified yet know the impact of those suspensions, and we certainly hadn’t quantified it in any meaningful way just a week later. The only thing we know for sure is that it likely slowed a certain kind of election fraud discourse.
 Using a precise percentage point for an inherently murky figure – per the Zignal Labs report, “misinformation” was measured through keyword terms – is deeply misleading. In a nutshell, a journalist shouldn’t be making claims with precise numbers when the underlying methods are so imprecise. 
-This represents the failure of editors and reporters to present information with a headline that reflected the nuance of the article. Got a misleading headline attached and then began to spread (now through cable news pundits) without any of the key context for interpreting the claims. The irony of spreading misleading content while reporting on misinformation doesn’t go unnoticed and may highlight an issue of journalism in the digital age. 
+This represents the failure of editors and reporters to present information with a headline that reflected the nuance of the article. The misleading headline began to spread devoid of key context for interpreting the claims. The irony of spreading misleading content while reporting on misinformation doesn’t go unnoticed and may highlight an issue of journalism in the digital age. 
 
 ### The Current State of Online Misinformation
 
@@ -20,8 +20,6 @@ A graph from the authors shows the misinformative theorizing is typically spread
 ```markdown
 “Journalists and social scientists can find themselves particularly disadvantaged in these circumstances—unless there is verifiable proof of intent to deceive, these groups risk reputational, professional and legal repercussions when investigating or making claims about information operations. Meanwhile, political operatives can exploit these professionals’ cautiousness by using plausible deniability as a defense and spread misleading content without facing major threats to their own credibility.”
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### The Mis- and Disinformation Beat
 
