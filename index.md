@@ -44,13 +44,12 @@ Your browser does not support the audio element.
 Digital toolsets can be used to support journalistic values, as the paper <em> Examining the Digital Toolsets of Journalists Reporting on Disinformation </em> explores. However, despite the development of journalistic digital tools by engineers, software developers, and human-computer interaction researchers, these tools are not always widely adopted by journalists due to lack of awareness, lack of access, or lack of trust in their abilities.
 The paper identified a few key areas of in which digital tools were used, including verification of online information, tracing the spread of online content, and monitoring new and developing stories. 
 
-
 ### The Rise of Data Journalism
 
 The paper <em> Data Journalism and Misinformation </em> emphasizes that while data journalism has been envisioned to advance solid ways of knowledge in society, it is contingent on factors such as access to reliable and representative datasets and individuals with the skills to understand and analyze the data. In the study, the authors identify three key components of reliable data journalism. 
 The first is access to relevant reliable datasets, though the study makes it clear that completely unbiased data does not exist and can always be interpreted in a misleading manner and even contribute to misinformation, leading to the second key component, which is the necessity of expertise. Data journalists must have the relevant expertise to process, analyze, and interpret complex data. This requires knowledge in statistics and software, as well as transparency about the process of data analysis.
  Data journalism even may require the background to visualize data and to develop algorithms to collect and clean large quantities of data. However, even when individuals have the data and expertise, this is simply not the case for every journalist working with data, meaning coordinating practices must be developed in newsrooms to limit misrepresentation. 
-It seems there is an opportunity here to consider possible standardized practices for data journalism. As is, newsrooms may be at risk of spreading misinformation (misinformation is unintentionally misleading, while disinformation actively seeks to mislead), and the pool of people limited to enforce editorial standards may be limited.
+It seems there is an opportunity here to consider possible standardized practices for data journalism. As is, newsrooms may be at risk of spreading misinformation (misinformation is unintentionally misleading, while disinformation actively seeks to mislead), and the pool of people able to enforce editorial standards may be limited.
 
 ### Works Cited
 
