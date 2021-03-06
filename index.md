@@ -26,9 +26,8 @@ claims about information operations.Meanwhile, political operatives
 can exploit these professionals’ cautiousness by using plausible 
 deniability as a defense and spread misleading content without 
 facing major threats to their own credibility.”
--Disinformation as Collaborative Work: 
-Surfacing the Participatory Nature of 
-Strategic Information Operations 
+-Disinformation as Collaborative Work: Surfacing the Participatory
+Nature of Strategic Information Operations 
 ```
 
 ### The Mis- and Disinformation Beat
