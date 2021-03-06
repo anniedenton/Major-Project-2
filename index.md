@@ -1,9 +1,9 @@
 ## How can journalists use digital tools to better report on online mis- and disinformation?
-In the week following former President Donald Trump’s suspension from major social media platforms, several national news outlets published stories reporting a 73% drop in misinformation on social media. 
-![Image](https://github.com/anniedenton/Major-Project-2/blob/gh-pages/images/image1.PNG)
+In the week following former President Donald Trump’s suspension from major social media platforms, several national news outlets published stories reporting a 73% drop in misinformation on social media. <br/>
+![Image](https://github.com/anniedenton/Major-Project-2/blob/gh-pages/images/image1.PNG) <br/>
 Both the articles and the original report from research firm Zignal Labs had context for definition of “misinformation,” how that term was quantified, and the pitfalls of those measurements. 
-However, what was ultimately circulated widely on social media platforms and on cable news was a watered-down headline that removed key context:
-![Image](https://github.com/anniedenton/Major-Project-2/blob/gh-pages/images/image2.PNG)
+However, what was ultimately circulated widely on social media platforms and on cable news was a watered-down headline that removed key context:<br/>
+![Image](https://github.com/anniedenton/Major-Project-2/blob/gh-pages/images/image2.PNG)<br/>
 This soundbite, unfortunately, lacks some key context and nuance present in the article, making for a very interesting case study of misinformation reporting.
 Twitter suspended over 70,000 accounts in the week after President Trump’s ban, and number of them were not “key allies” of Trump. Many were active or otherwise influential QAnon accounts or even affiliated with unrelated groups, so one can’t make a causal claim from just the Trump suspension. 
 Furthermore, the precise measurement of misinformation is problematic.  Though Suspending Pres. Trump’s account likely took a dent out of mis- and disinformation on Twitter, the 73% number is incredibly misleading. We still haven’t quantified yet know the impact of those suspensions, and we certainly hadn’t quantified it in any meaningful way just a week later. The only thing we know for sure is that it likely slowed a certain kind of election fraud discourse.
