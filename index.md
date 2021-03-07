@@ -56,7 +56,7 @@ In the paper <em>On the Misinformation Beat: Understanding the Work of Investiga
 One of the participants of the study felt ill-equipped to report on problematic information on social platforms:
 
 <audio controls>
-  <source src="images/audio2.mp3" type="audio/mpeg">
+  <source src="images/audio2.m4a" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -64,7 +64,7 @@ Your browser does not support the audio element.
 Journalists must be constantly updating their approaches and tactics as accessibility of software and data changes, and most social media companies have little interest in supporting accessible data collection on their platforms, as another participant voiced: 
 
 <audio controls>
-  <source src="images/audio2.mp3" type="audio/mpeg">
+  <source src="images/audio3.m4a" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 (Disclaimer: this audio was a reading of the participant’s text statement found in the study)
