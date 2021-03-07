@@ -2,7 +2,7 @@
 In the week following former President Donald Trump’s suspension from major social media platforms, several national news outlets published stories reporting a 73% drop in misinformation on social media. <br/>
 
 <img src="/images/image1.PNG" alt="alt text" width="400px" height="400px"> <br/>
-Both the articles and the original report from research firm Zignal Labs had context for definition of “misinformation,” how that term was quantified, and the pitfalls of those measurements. 
+The original report from research firm Zignal Labs had context for definition of “misinformation,” how that term was quantified, and the pitfalls of those measurements. 
 However, what was ultimately circulated widely on social media platforms and on cable news was a watered-down headline that removed key context:<br/>
 ![Image](/images/image2.PNG)<br/>
 
