@@ -20,7 +20,8 @@ As part of a case study on the disinformation campaign targeting the White Helme
 ![Image](/images/image3.PNG)
 The study mentions some of the most influential accounts were Western “journalists” who grew in popularity through amplification by state-sponsored media outlets on Twitter. Work from pseudo-activists, “journalists,” media outlets, and state agencies all feed into one another, making the distinction between organic and orchestrated operations rather fuzzy. 
 
-All these factors create a highly complicated environment for legitimate journalists, who may lack ways to quantify the credibility of individuals and groups in digital spaces. Further, the study emphasizes that journalists are often made targets “as ‘unwitting agents’ in the spread of disinformation.” For example, anonymous sources may offer tips that align with a given journalist’s existing political beliefs. 
+All these factors create a highly complicated environment for legitimate journalists, who may lack ways to quantify the credibility of individuals and groups in digital spaces. The study emphasizes that journalists are often made targets “as ‘unwitting agents’ in the spread of disinformation.” For example, anonymous sources may offer tips that align with a given journalist’s existing political beliefs. 
+
 “Journalists and social scientists can find themselves particularly disadvantaged in these circumstances—unless there is verifiable proof of intent to deceive, these groups risk reputational, professional and legal repercussions when investigating or making claims about information operations. Meanwhile, political operatives can exploit these professionals’ cautiousness by using plausible deniability as a defense and spread misleading content without facing major threats to their own credibility.”
 
 ```markdown
