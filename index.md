@@ -36,8 +36,7 @@ Nature of Strategic Information Operations
 Despite the challenges associated with digital spaces, journalists are increasingly reporting on various forms of misleading information in online ecosystems. In the paper <em> On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online </em> the authors discuss the move of experienced internet, social media, and national security reporters to covering this new "beat" full time. In doing this work, journalists aim to inform readers about what is happening online, investigate and debunk false claims, and hold social media companies accountable for the problematic information that spreads on their platforms. Compared to researchers, journalists are often exploring these issues on shorter timelines and with fewer resources, yet they rely on some of the same kinds of data and analysis techniques. <span class="soundcite" data-url="/media/bach-cello-suite.mp3" data-start="0" data-end="164000" data-plays="1">listen</span>
 
 <audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="images/audio1.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
