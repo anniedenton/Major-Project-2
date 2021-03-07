@@ -1,7 +1,7 @@
 ## How can journalists use digital tools to better report on online mis- and disinformation?
 In the week following former President Donald Trump’s suspension from major social media platforms, several national news outlets published stories reporting a 73% drop in misinformation on social media. <br/>
 
-<img src="https://github.com/anniedenton/Major-Project-2/blob/gh-pages/images/image1.PNG" alt="alt text" width="400px" height="400px"> <br/>
+![Image](/images/image1.PNG)<br/>
 The original report from research firm Zignal Labs had context for definition of “misinformation,” how that term was quantified, and the pitfalls of those measurements. 
 However, what was ultimately circulated widely on social media platforms and on cable news was a watered-down headline that removed key context:<br/>
 ![Image](/images/image2.PNG)<br/>
@@ -13,13 +13,17 @@ Your browser does not support the audio element.
 
 This soundbite, unfortunately, lacks some key context and nuance present in the article, making for a very interesting case study of misinformation reporting.
 Twitter suspended over 70,000 accounts in the week after President Trump’s ban, and number of them were not “key allies” of Trump. Many were active or otherwise influential QAnon accounts or even affiliated with unrelated groups, so one can’t make a causal claim from just the Trump suspension. <br/>
+
 Furthermore, the precise measurement of misinformation is problematic.  Though Suspending Pres. Trump’s account likely took a dent out of mis- and disinformation on Twitter, the 73% number is incredibly misleading. We still haven’t quantified yet know the impact of those suspensions, and we certainly hadn’t quantified it in any meaningful way just a week later. The only thing we know for sure is that it likely slowed a certain kind of election fraud discourse.<br/>
+
 Using a precise percentage point for an inherently murky figure – per the Zignal Labs report, “misinformation” was measured through keyword terms – is deeply misleading. In a nutshell, a journalist shouldn’t be making claims with precise numbers when the underlying methods are so imprecise. <br/>
+
 This represents the failure of editors and reporters to present information with a headline that reflected the nuance of the article. The misleading headline began to spread devoid of key context for interpreting the claims. The irony of spreading misleading content while reporting on misinformation doesn’t go unnoticed and may highlight an issue of journalism in the digital age. <br/>
 
 ### The Current State of Online Misinformation
 
 Modern social media ecosystems, particularly Twitter, are full of unique pitfalls for journalists. Twitter can be an incredibly useful tool for finding sources, discovering new leads, and engaging with an audience. However, the platform is also rife with bad actors that seek to undermine journalistic integrity. Particularly thorny are “strategic information operations,” which are defined in the paper <em> Disinformation as Collaborative Work: Surfacing the Participatory Nature of Strategic Information Operations </em> as efforts by individuals and groups to manipulate and change public opinion by intentionally altering the information environment. <br/>
+
 The primary goal of these operations is to undermine the integrity of the digital information space. These operations can be “orchestrated” by paid actors, or “organic,” arising from a series of individuals in online crowds. The paper notes a shift in recent years towards “organic” efforts. The authors also note that some operations focus on causing distraction or uncertainty in ways that “kill the possibility of debate and a reality-based politics,” rather than attempting to spread any specific message or idea. 
 <br/>
 As part of a case study on the disinformation campaign targeting the White Helmets amid the Syrian Civil, the paper includes a visualization that shows that particular disinformation ecosystem, which typically involved a mix of clickbait news, self-described “alternative” and “independent” media, as well as government-affiliated domains and think tanks associated with specifically pro-Russian stances. <br/>
