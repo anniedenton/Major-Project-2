@@ -57,13 +57,14 @@ One of the participants of the study felt ill-equipped to report on problematic 
 Your browser does not support the audio element.
 </audio>
 
-(This was a reading of the participant’s text statement.)
+(Disclaimer: this audio was a reading of the participant’s text statement found in the study)
 Journalists must be constantly updating their approaches and tactics as accessibility of software and data changes, and most social media companies have little interest in supporting accessible data collection on their platforms, as another participant voiced: 
 
 <audio controls>
   <source src="images/audio2.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+(Disclaimer: this audio was a reading of the participant’s text statement found in the study)
 
 In all twelve interviews in the study, each participant mentioned the increasing need for participants to access and analyze social data for their work. The journalists without strong data science skill sets, internal support, and effective tools for analyzing those data “felt disadvantaged in achieving their reporting goals.” 
 
