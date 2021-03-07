@@ -1,10 +1,16 @@
 ## How can journalists use digital tools to better report on online mis- and disinformation?
 In the week following former President Donald Trump’s suspension from major social media platforms, several national news outlets published stories reporting a 73% drop in misinformation on social media. <br/>
-<link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
+
 <img src="/images/image1.PNG" alt="alt text" width="400px" height="400px"> <br/>
 Both the articles and the original report from research firm Zignal Labs had context for definition of “misinformation,” how that term was quantified, and the pitfalls of those measurements. 
 However, what was ultimately circulated widely on social media platforms and on cable news was a watered-down headline that removed key context:<br/>
 ![Image](/images/image2.PNG)<br/>
+
+<audio controls>
+  <source src="images/audio1.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 This soundbite, unfortunately, lacks some key context and nuance present in the article, making for a very interesting case study of misinformation reporting.
 Twitter suspended over 70,000 accounts in the week after President Trump’s ban, and number of them were not “key allies” of Trump. Many were active or otherwise influential QAnon accounts or even affiliated with unrelated groups, so one can’t make a causal claim from just the Trump suspension. <br/>
 Furthermore, the precise measurement of misinformation is problematic.  Though Suspending Pres. Trump’s account likely took a dent out of mis- and disinformation on Twitter, the 73% number is incredibly misleading. We still haven’t quantified yet know the impact of those suspensions, and we certainly hadn’t quantified it in any meaningful way just a week later. The only thing we know for sure is that it likely slowed a certain kind of election fraud discourse.<br/>
@@ -39,12 +45,7 @@ Nature of Strategic Information Operations
 
 ### The Mis- and Disinformation Beat
 
-Despite the challenges associated with digital spaces, journalists are increasingly reporting on various forms of misleading information in online ecosystems. In the paper <em> On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online </em> the authors discuss the move of experienced internet, social media, and national security reporters to covering this new "beat" full time. In doing this work, journalists aim to inform readers about what is happening online, investigate and debunk false claims, and hold social media companies accountable for the problematic information that spreads on their platforms. Compared to researchers, journalists are often exploring these issues on shorter timelines and with fewer resources, yet they rely on some of the same kinds of data and analysis techniques. <span class="soundcite" data-url="/media/bach-cello-suite.mp3" data-start="0" data-end="164000" data-plays="1">listen</span>
-
-<audio controls>
-  <source src="images/audio1.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+Despite the challenges of navigating digital spaces, journalists are increasingly reporting on various forms of misleading information in online ecosystems. In the paper <em> On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online </em> the authors discuss the move of experienced internet, social media, and national security reporters to covering this new "beat" full time. In doing this work, journalists aim to inform readers about what is happening online, investigate and debunk false claims, and hold social media companies accountable for the problematic information that spreads on their platforms. Compared to researchers, journalists are often exploring these issues on shorter timelines and with fewer resources, yet they rely on some of the same kinds of data and analysis techniques.
 
 Digital toolsets can be used to support journalistic values, as the paper <em> Examining the Digital Toolsets of Journalists Reporting on Disinformation </em> explores. However, despite the development of journalistic digital tools by engineers, software developers, and human-computer interaction researchers, these tools are not always widely adopted by journalists due to lack of awareness, lack of access, or lack of trust in their abilities.
 The paper identified a few key areas of in which digital tools were used, including verification of online information, tracing the spread of online content, and monitoring new and developing stories. 
