@@ -67,6 +67,13 @@ Your browser does not support the audio element.
 
 In all twelve interviews in the study, each participant mentioned the increasing need for participants to access and analyze social data for their work. The journalists without strong data science skill sets, internal support, and effective tools for analyzing those data “felt disadvantaged in achieving their reporting goals.” 
 
+The skills and tools necessary for this field are examined in the study <em>Examining the Digital Toolsets of Journalists Reporting on Disinformation</em>. The study identifies a few crucial uses of digital tools, which included verification of online information, tracing the spread of online content, and monitoring new and developing stories.
+
+Each of these uses are complicated and may take a variety of forms through a variety of technologies. Information verification, for instance, can involve everything ranging from identity to the legitimacy of audiovisual content.  
+
+The journalists interviewed in the study had access to many resources for verifying and establishing the provenance of data, but relatively fewer resources for monitoring content and drawing connections to understand information trajectories. Despite the development of journalistic digital tools, these tools are not always widely adopted by journalists due to lack of awareness, lack of access, or lack of trust in their abilities. More work needs to be done to lower the barrier of entry in this space. 
+
+
 ### The Rise of Data Journalism
 
 The paper <em> Data Journalism and Misinformation </em> emphasizes that while data journalism has been envisioned to advance solid ways of knowledge in society, it is contingent on factors such as access to reliable and representative datasets and individuals with the skills to understand and analyze the data. In the study, the authors identify three key components of reliable data journalism. 
