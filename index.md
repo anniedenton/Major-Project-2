@@ -45,10 +45,27 @@ Nature of Strategic Information Operations
 
 ### The Mis- and Disinformation Beat
 
-Despite the challenges of navigating digital spaces, journalists are increasingly reporting on various forms of misleading information in online ecosystems. In the paper <em> On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online </em> the authors discuss the move of experienced internet, social media, and national security reporters to covering this new "beat" full time. In doing this work, journalists aim to inform readers about what is happening online, investigate and debunk false claims, and hold social media companies accountable for the problematic information that spreads on their platforms. Compared to researchers, journalists are often exploring these issues on shorter timelines and with fewer resources, yet they rely on some of the same kinds of data and analysis techniques.
+Despite the challenges of navigating digital spaces, journalists are increasingly reporting on various forms of misleading information in online ecosystems. As social media mis- and disinformation becomes grows in political relevancy, journalists must be equipped with tools to navigate and report on these worlds. 
+Some internet, social media, and national security reporters have moved to cover this new "beat" full time. In doing this work, journalists aim to inform readers about what is happening online, investigate and debunk false claims, and hold social media companies accountable for the problematic information that spreads on their platforms. Compared to researchers, journalists are often exploring these issues on much shorter timelines and with fewer resources, yet they rely on some of the same kinds of data and analysis techniques. On the flip side, journalists are also facing increasing pressure to compete with citizen reporters, especially in breaking news and local event coverage.
+As a result, journalists are increasingly using online spaces to search for leads, sources, statements from public officials, and information for long-term investigations. Navigating social media platforms to search for sources and investigate stories requires a new way of working that involves learning new skills and adopting new tools. 
+To better support the needs of journalists, the Human-Computer Interaction research community has long been searching for ways to empower journalists with computational tools. 
+In the paper <em>On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online</em>, twelve “misinformation beat” journalists were interviewed to detail their use of digital tools.  
+One of the participants of the study felt ill-equipped to report on problematic information on social platforms:
 
-Digital toolsets can be used to support journalistic values, as the paper <em> Examining the Digital Toolsets of Journalists Reporting on Disinformation </em> explores. However, despite the development of journalistic digital tools by engineers, software developers, and human-computer interaction researchers, these tools are not always widely adopted by journalists due to lack of awareness, lack of access, or lack of trust in their abilities.
-The paper identified a few key areas of in which digital tools were used, including verification of online information, tracing the spread of online content, and monitoring new and developing stories. 
+<audio controls>
+  <source src="images/audio2.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+(This was a reading of the participant’s text statement.)
+Journalists must be constantly updating their approaches and tactics as accessibility of software and data changes, and most social media companies have little interest in supporting accessible data collection on their platforms, as another participant voiced: 
+
+<audio controls>
+  <source src="images/audio2.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+In all twelve interviews in the study, each participant mentioned the increasing need for participants to access and analyze social data for their work. The journalists without strong data science skill sets, internal support, and effective tools for analyzing those data “felt disadvantaged in achieving their reporting goals.” 
 
 ### The Rise of Data Journalism
 
