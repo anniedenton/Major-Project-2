@@ -46,10 +46,13 @@ Nature of Strategic Information Operations
 ### The Mis- and Disinformation Beat
 
 Despite the challenges of navigating digital spaces, journalists are increasingly reporting on various forms of misleading information in online ecosystems. As social media mis- and disinformation becomes grows in political relevancy, journalists must be equipped with tools to navigate and report on these worlds. 
+
 Some internet, social media, and national security reporters have moved to cover this new "beat" full time. In doing this work, journalists aim to inform readers about what is happening online, investigate and debunk false claims, and hold social media companies accountable for the problematic information that spreads on their platforms. Compared to researchers, journalists are often exploring these issues on much shorter timelines and with fewer resources, yet they rely on some of the same kinds of data and analysis techniques. On the flip side, journalists are also facing increasing pressure to compete with citizen reporters, especially in breaking news and local event coverage.
 As a result, journalists are increasingly using online spaces to search for leads, sources, statements from public officials, and information for long-term investigations. Navigating social media platforms to search for sources and investigate stories requires a new way of working that involves learning new skills and adopting new tools. 
+
 To better support the needs of journalists, the Human-Computer Interaction research community has long been searching for ways to empower journalists with computational tools. 
 In the paper <em>On the Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online</em>, twelve “misinformation beat” journalists were interviewed to detail their use of digital tools.  
+
 One of the participants of the study felt ill-equipped to report on problematic information on social platforms:
 
 <audio controls>
@@ -78,14 +81,25 @@ The journalists interviewed in the study had access to many resources for verify
 ### The Rise of Data Journalism
 
 Much of the emerging “misinformation beat” intersects with the (marginally better established) field of data journalism. Data journalism is a rather murky term – all journalism involves data in some sense. In general, though, the field seems to be centered around topics and skills related to management of digital data and the visualization of said data. 
+
 The paper <em>Data Journalism and Misinformation</em> emphasizes that while data journalism has been envisioned to advance solid ways of knowledge in society, it is contingent on factors such as access to reliable and representative datasets and individuals with the skills to understand and analyze the data. In the study, the authors identify three key components of reliable data journalism. 
+
 The first is access to relevant reliable datasets, though the study makes it clear that completely unbiased data does not exist and can always be interpreted in a misleading manner and even contribute to misinformation, leading to the second key component, which is the necessity of expertise. Data journalists must have the relevant expertise to process, analyze, and interpret complex data. This requires knowledge in statistics and software, as well as transparency about the process of data analysis.
  Data journalism even may require the background to visualize data and to develop algorithms to collect and clean large quantities of data. However, even when individuals have the data and expertise, this is simply not the case for every journalist working with data, meaning coordinating practices must be developed in newsrooms to limit misrepresentation. 
+ 
 It may be helpful to look back at one of the recent shifts towards of data-driven reporting. This interview with statistician Nate Silver took place following his sweeping prediction of the 2012 presidential election.
-https://www.youtube.com/watch?v=IYjIsH4q7lk
+
+<audio controls>
+  <source src="images/audio4.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 To be clear, Silver isn’t a journalist, and presidential election predictions are not journalism. However, his predictions (sort of) marked the beginning of the rapid growth we’ve seen of data-driven reporting in national news in the past decade. We’ve heard several warnings in the years since, many from Silver himself, of the pitfalls of separating data journalism as a distinct field from traditional journalism. 
+
 Again, all journalism uses data in some sense, and it’s a mistake to view data journalism or misinformation reporting as entirely distinct from traditional print journalism. To accomplish this, tools need to be more accessible to journalists of all background. 
+
 Journalists need have the skills and access to accurately process large quantities of data. Going up the editorial chain, a baseline level of knowledge is necessary for all those involved in the writing and editing process, in part to ensure that misleading headlines aren’t slapped atop articles that provided nuanced context – not unlike the “73%” article referenced in the introduction. 
+
 Alongside training, there need to be industry-wide standards for data reporting. In the state we’re currently in, newsrooms may still be at risk of unwittingly facilitating misinformation.
 
 
@@ -99,7 +113,3 @@ Melinda McClure Haughey, Meena Devii Muralikumar, Cameron Wood, and Kate Starbir
 Misinformation Beat: Understanding the Work of Investigative Journalists Reporting on Problematic Information Online. Proc. ACM Hum.-Comput. Interact. 4, CSCW2, Article 133 (October 2020), 22 pages. https://doi.org/10.1145/3415204
 
 Oscar Westlund, Alfred Hermida. (2020). Data Journalism and Misinformation. Retrieved from http://www.alfredhermida.me/wp-content/uploads/2020/07/Westlund-and-Hermida-2020-Data-Journalism-and-Misinformation-Accepted-version.pdf
-
-
-
-
