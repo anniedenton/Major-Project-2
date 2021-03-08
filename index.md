@@ -71,18 +71,24 @@ In the paper <em>On the Misinformation Beat: Understanding the Work of Investiga
 
 One of the participants of the study felt ill-equipped to report on problematic information on social platforms:
 
-<audio controls>
+<p align="center">
+  <audio controls>
   <source src="images/audio2.m4a" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+</p>
+
 
 (Disclaimer: this audio was a reading of the participant’s text statement found in the study)
 Journalists must be constantly updating their approaches and tactics as accessibility of software and data changes, and most social media companies have little interest in supporting accessible data collection on their platforms, as another participant voiced: 
 
-<audio controls>
+<p align="center">
+  <audio controls>
   <source src="images/audio3.m4a" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+</p>
+
 (Disclaimer: this audio was a reading of the participant’s text statement found in the study)
 
 In all twelve interviews in the study, each participant mentioned the increasing need for participants to access and analyze social data for their work. The journalists without strong data science skill sets, internal support, and effective tools for analyzing those data “felt disadvantaged in achieving their reporting goals.” 
@@ -105,10 +111,14 @@ The first is access to relevant reliable datasets, though the study makes it cle
  
 It may be helpful to look back at one of the recent shifts towards of data-driven reporting. This interview with statistician Nate Silver took place following his sweeping prediction of the 2012 presidential election.
 
-<audio controls>
+
+
+<p align="center">
+  <audio controls>
   <source src="images/audio4.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+</p>
 
 To be clear, Silver isn’t a journalist, and presidential election predictions are not journalism. However, his predictions (sort of) marked the beginning of the rapid growth we’ve seen of data-driven reporting in national news in the past decade. We’ve heard several warnings in the years since, many from Silver himself, of the pitfalls of separating data journalism as a distinct field from traditional journalism. 
 
