@@ -35,7 +35,11 @@ Modern social media ecosystems, particularly Twitter, are full of unique pitfall
 The primary goal of these operations is to undermine the integrity of the digital information space. These operations can be “orchestrated” by paid actors, or “organic,” arising from a series of individuals in online crowds. The paper notes a shift in recent years towards “organic” efforts. The authors also note that some operations focus on causing distraction or uncertainty in ways that “kill the possibility of debate and a reality-based politics,” rather than attempting to spread any specific message or idea. 
 <br/>
 As part of a case study on the disinformation campaign targeting the White Helmets amid the Syrian Civil, the paper includes a visualization that shows that particular disinformation ecosystem, which typically involved a mix of clickbait news, self-described “alternative” and “independent” media, as well as government-affiliated domains and think tanks associated with specifically pro-Russian stances. <br/>
-![Image](/images/image3.PNG)
+
+<p align="center">
+  <img width="500" src="images/image3.PNG" alt="help this even updating">
+</p>
+
 The study mentions some of the most influential accounts were Western “journalists” who grew in popularity through amplification by state-sponsored media outlets on Twitter. Work from pseudo-activists, “journalists,” media outlets, and state agencies all feed into one another, making the distinction between organic and orchestrated operations rather fuzzy. 
 
 All these factors create a highly complicated environment for legitimate journalists, who may lack ways to quantify the credibility of individuals and groups in digital spaces. The study emphasizes that journalists are often made targets “as ‘unwitting agents’ in the spread of disinformation.” For example, anonymous sources may offer tips that align with a given journalist’s existing political beliefs. 
