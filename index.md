@@ -10,7 +10,11 @@ img[src*='#center'] {
 ![Image](/images/image1.PNG#center)<br/>
 The original report from research firm Zignal Labs had context for definition of “misinformation,” how that term was quantified, and the pitfalls of those measurements. 
 However, what was ultimately circulated widely on social media platforms and on cable news was a watered-down headline that removed key context:<br/>
-![Image](/images/image2.PNG)<br/>
+<p align="center">
+    ![Image](/images/image2.PNG)
+  <!--img width="460" height="300" src="http://www.fillmurray.com/460/300"-->
+</p>
+<br/>
 
 <audio controls>
   <source src="images/audio1.mp3" type="audio/mpeg">
