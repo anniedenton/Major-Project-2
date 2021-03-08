@@ -3,12 +3,11 @@ In the week following former President Donald Trump’s suspension from major so
 
 <p align="center">
   <img width="500" src="images/image1.PNG" alt="help this even updating">
- 
 </p>
 <br/>
 
 The original report from research firm Zignal Labs had context for definition of “misinformation,” how that term was quantified, and the pitfalls of those measurements. 
-However, what was ultimately circulated widely on social media platforms and on cable news was a watered-down headline that removed key context:<br/>
+However, what was ultimately circulated widely on social media platforms and on cable news was a watered-down headline that was devoid of key context:<br/>
 
 <p align="center">
   <img width="500" src="images/image2.PNG" alt="help this even updating">
