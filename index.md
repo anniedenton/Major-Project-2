@@ -1,20 +1,24 @@
 ## How can journalists use digital tools to better report on online mis- and disinformation?
 In the week following former President Donald Trump’s suspension from major social media platforms, several national news outlets published stories reporting a 73% drop in misinformation on social media. <br/>
 
+<p align="center">
+  <img width="500" src="images/image1.PNG" alt="help this even updating">
+ 
+</p>
+<br/>
 
-![Image](/images/image1.PNG)<br/>
 The original report from research firm Zignal Labs had context for definition of “misinformation,” how that term was quantified, and the pitfalls of those measurements. 
 However, what was ultimately circulated widely on social media platforms and on cable news was a watered-down headline that removed key context:<br/>
 
 <p align="center">
-  <img width="200" src="images/image2.PNG" alt="help this even updating">
-</p>
-<br/>
-
-<audio controls>
+  <img width="500" src="images/image2.PNG" alt="help this even updating">
+  <br/>
+  <audio controls>
   <source src="images/audio1.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+  Your browser does not support the audio element.
+  </audio>
+</p>
+
 
 This soundbite, unfortunately, lacks some key context and nuance present in the article, making for a very interesting case study of misinformation reporting.
 Twitter suspended over 70,000 accounts in the week after President Trump’s ban, and number of them were not “key allies” of Trump. Many were active or otherwise influential QAnon accounts or even affiliated with unrelated groups, so one can’t make a causal claim from just the Trump suspension. <br/>
