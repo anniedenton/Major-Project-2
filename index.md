@@ -1,4 +1,4 @@
-## How can journalists use digital tools to better report on online mis- and disinformation?
+## How can journalists use digital tools to better report on online mis- and disinformation? why isn't this updating bruh
 In the week following former President Donald Trump’s suspension from major social media platforms, several national news outlets published stories reporting a 73% drop in misinformation on social media. <br/>
 
 <p align="center">
